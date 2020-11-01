@@ -38,7 +38,7 @@ const generateProjects = projectsArr => {
         .join('')}
       </div>
     </section>
-  `;
+  `; 
 };
 
 // create the about section
